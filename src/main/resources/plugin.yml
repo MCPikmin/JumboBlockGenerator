@@ -1,0 +1,4 @@
+name: JumboBlockGenerator
+version: ${project.version}
+main: io.github.hojitaro.jumboblockgenerator.JumboBlockGenerator
+api-version: 1.16
